@@ -10,3 +10,6 @@ Serve the files in the `assets/images` folder under a route resource called
 
 What do you expect the URL path to be for requesting the
 `assets/images/hello.png` file? Is your hypothesis correct?
+
+
+http://localhost:5000/stickers/hello.png
